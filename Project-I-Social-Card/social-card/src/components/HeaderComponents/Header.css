@@ -1,1 +1,22 @@
 /* All styles for your header Components live here */
+.headerContainer{
+    display: flex;
+    width: 620px;
+    margin-left: 30px;
+}
+.ImageThumbnail {
+    margin-top: 27px;
+}
+img{
+    height: 50px;
+    padding: 0px 10px;
+}
+
+.title{
+    font-weight: lighter;
+    color: grey;
+}
+
+.colorStyle{
+    color: black;
+}
